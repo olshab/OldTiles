@@ -1,0 +1,94 @@
+;  TILES
+
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence01_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence01_In
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence02_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence02_In
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence03_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence03_In
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence04_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence01_In
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence05_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence02_In
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_Escape01:/Game/OriginalTiles/Tiles/00-Common/BP_TL_St_16x32_Escape01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_HD03
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD03
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD04:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_LD04
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Fr_16x16_MD03
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_LumberPile01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_LumberPile01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_UniqueTree01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_UniqueTree01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_WaterTower01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Lm_16x16_WaterTower01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_CornerHD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_CornerHD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_CornerHD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_CornerHD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Pt_16x16_StraightHD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_St_16x16_Ind_Shack:/Game/OriginalTiles/Tiles/00-Common/BP_TL_St_16x16_Shack01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_St_32x32_CoalTower:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_St_32x32_Warehouse01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_St_32x32_Foundry01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_St_32x32_Foundry01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_St_32x32_Mine01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_St_32x32_Mine01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_St_32x32_Storehouse:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_St_32x32_Storehouse
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD04:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_HD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD01:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD01
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD02:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD02
+;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD01
+
+
+
+;  ACTORSPAWNERS
+
+; FLOORS
+;/Game/NewTiles/Blueprints/01-Industrial/BP_FL_FoundaryFloor01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_FL_FoundaryFloor01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_FL_FoundaryFloor02:/Game/OriginalTiles/Blueprints/01-Industrial/BP_FL_FoundaryFloor02
+;/Game/NewTiles/Blueprints/00-Common/BP_Fl_Fr_16x16_Basement01:/Game/OriginalTiles/Blueprints/00-Common/BP_Fl_Fr_16x16_Basement01
+;/Game/NewTiles/Blueprints/00-Common/BP_Fl_Fr_16x16_Plain01:/Game/OriginalTiles/Blueprints/00-Common/BP_Fl_Fr_16x16_Plain01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Fl_MineFloor01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_Fl_MineFloor01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Fl_MineFloor02:/Game/OriginalTiles/Blueprints/01-Industrial/BP_Fl_MineFloor02
+;/Game/NewTiles/Blueprints/01-Industrial/BP_FL_Storehouse1:/Game/OriginalTiles/Blueprints/01-Industrial/BP_FL_Storehouse1
+;/Game/NewTiles/Blueprints/01-Industrial/BP_WarehouseFloor01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WarehouseFloor01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_WarehouseFloor02:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WarehouseFloor02
+
+; WINDOW BLOCKERS
+
+; VAULTS
+
+; WALLS
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_Fence01:/Game/OriginalTiles/Blueprints/00-Common/Fence01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_Fence02:/Game/OriginalTiles/Blueprints/00-Common/Fence02
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_FenceEdge01:/Game/OriginalTiles/Blueprints/00-Common/FenceEdge01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_Wall01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_Ind_Wall01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement01_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement01_In
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement02_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement02_In
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement03_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement03_In
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement04_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement04_In
+
+; MISC
+;/Game/NewTiles/Blueprints/00-Common/BP_Ind_Boulder01:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_Boulder02:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder02
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_BrokenTree_01:/Game/OriginalTiles/Blueprints/00-Common/BP_BigTree01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_BrokenTree_02:?
+;/Game/NewTiles/Blueprints/01-Industrial/BP_CratesGroup01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_CratesGroup01
+;/Game/NewTiles/Blueprints/00-Common/BP_FireBarrel01:/Game/OriginalTiles/Blueprints/00-Common/BP_FireBarrel01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_LogPile01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_LogPile01
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_HideGrass01:/Game/OriginalTiles/Blueprints/00-Common/BP_LowCoverGrass01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_BigTree01:/Game/OriginalTiles/Blueprints/00-Common/BP_BigTree01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_MediumTree_NoLeaves:/Game/OriginalTiles/Blueprints/00-Common/BP_MediumTree01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_MediumTree01:/Game/OriginalTiles/Blueprints/00-Common/BP_MediumTree01
+
+
+; EDITOR (NOT USED IN GAME)
+;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Chest_Open:/Game/OriginalTiles/Blueprints/00-Common/BP_Editor_Chest_Open
+;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Hatch:/Game/OriginalTiles/Blueprints/00-Common/BP_Editor_Hatch
+;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Hook:/Game/OriginalTiles/Blueprints/00-Common/BP_Editor_Hook
+;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Locker:/Game/OriginalTiles/Blueprints/00-Common/ClosetStandard
+;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Totem:/Game/OriginalTiles/Blueprints/00-Common/bp_editor_totembase
+
+
+; MAIN BUILDINGS (NOT USED IN BLUEPRINT INJECTING, JUST FOR CONVENIENCE)
+;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Foundry01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Foundry01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Mine01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Mine01
+;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Storehouse01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Storehouse01
