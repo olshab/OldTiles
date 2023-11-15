@@ -1,5 +1,6 @@
 ;  TILES
 
+; INDUSTRIAL
 ;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence01_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence01_In
 ;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence02_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence02_In
 ;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence03_In:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Bd_16x16_Fence03_In
@@ -38,6 +39,57 @@
 ;/Game/NewTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD03:/Game/OriginalTiles/Tiles/01-Industrial/BP_TL_Wl_16x16_MD01
 
 
+; JUNKYARD
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence01B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence01_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence02B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence02_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence03B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence03_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence04B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence01_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_FenceCorner:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence02_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_FenceCorner2:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence03_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_FenceCornerB:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence01_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_FenceCornerB_2:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence02_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_FenceCornerB2:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Bd_16x16_Fence03_Jk
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Bd_Escape11:/Game/OriginalTiles/Tiles/00-Common/BP_TL_St_16x32_Escape01
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_HD11_1P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_HD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_HD12_1P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_HD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_HD13_0P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_HD13
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_LD11_2P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_LD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_LD12_2P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_LD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_LD13_0P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_LD13
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_LD14_Hill:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_LD14
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_MD11_0P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_MD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_MD12_1P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_MD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Fr_MD13_0P:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Fr_16x16_MD13
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarCrusher01:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarCrusher01
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile01B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile01
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile02B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile02
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile03B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile03
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile04B:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CarPile04
+
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CraneMagnet01:/Game/OriginalTiles/Tiles/02-Junkyard/
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CrashedBus01:/Game/OriginalTiles/Tiles/02-Junkyard/
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Lm_16x16_CrashedBus02:/Game/OriginalTiles/Tiles/02-Junkyard/
+
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_CornerHD11:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_CornerHD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_CornerHD12:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_CornerHD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD11:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD12:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD12
+
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_16x16_Office01:/Game/OriginalTiles/Tiles/02-Junkyard/7
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_16x16_SmallLodge01:/Game/OriginalTiles/Tiles/02-Junkyard/
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_2x2_Garage_Jnk:/Game/OriginalTiles/Tiles/02-Junkyard/
+
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_32x32_GasStation:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_St_32x32_GasStation
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_Jnk_Shack:/Game/OriginalTiles/Tiles/00-Common/BP_TL_St_16x16_Shack01
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD11:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD12:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD13:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD14:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_HD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD11:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD11
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD12:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD12
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD13:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD11
+
+
 
 ;  ACTORSPAWNERS
 
@@ -52,9 +104,12 @@
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_WarehouseFloor01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WarehouseFloor01
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_WarehouseFloor02:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WarehouseFloor02
 
+
 ; WINDOW BLOCKERS
 
+
 ; VAULTS
+
 
 ; WALLS
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_Fence01:/Game/OriginalTiles/Blueprints/00-Common/Fence01
@@ -65,6 +120,19 @@
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement02_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement02_In
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement03_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement03_In
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_Ind_WallArrangement04_In:/Game/OriginalTiles/Blueprints/01-Industrial/BP_WallArrangement04_In
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_JNK_BorderFence_1:/Game/OriginalTiles/Blueprints/00-Common/Fence01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_JNK_BorderFence_2:/Game/OriginalTiles/Blueprints/00-Common/Fence02
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_JNK_BorderFence_3:/Game/OriginalTiles/Blueprints/00-Common/Fence01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_JNK_BorderFence_4:/Game/OriginalTiles/Blueprints/00-Common/Fence02
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_BorderFence_01:/Game/OriginalTiles/Blueprints/00-Common/Fence01
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_BorderFence_02:/Game/OriginalTiles/Blueprints/00-Common/Fence02
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_BorderFencePillar_01:/Game/OriginalTiles/Blueprints/00-Common/FenceEdge01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_Jnk_Wall01:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_Jnk_Wall01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_Jnk_MiniMazeWall_01:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_WallArrangement01_Jk
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_Jnk_MiniMazeWall_02:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_WallArrangement02_Jk
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_Jnk_MiniMazeWall_03:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_WallArrangement03_Jk
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_Jnk_MiniMazeWall_04:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_WallArrangement04_Jk
+
 
 ; MISC
 ;/Game/NewTiles/Blueprints/00-Common/BP_Ind_Boulder01:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder01
@@ -78,6 +146,14 @@
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_BigTree01:/Game/OriginalTiles/Blueprints/00-Common/BP_BigTree01
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_MediumTree_NoLeaves:/Game/OriginalTiles/Blueprints/00-Common/BP_MediumTree01
 ;/Game/NewTiles/Blueprints/01-Industrial/BP_IND_MediumTree01:/Game/OriginalTiles/Blueprints/00-Common/BP_MediumTree01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_COM_TireStack01:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_TireStack01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_COM_TireStack02:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_TireStack02
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_Boulder01:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder01
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_Boulder02:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder02
+;/Game/NewTiles/Blueprints/00-Common/BP_COM_Boulder03:/Game/OriginalTiles/Blueprints/00-Common/BP_BK_Boulder01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_BigTree01_Jnk:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_BigTree01_Jnk
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_MediumTree01_Jnk:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_MediumTree01_Jnk
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_TallTree04_Jnk:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_TallTree04_Jnk
 
 
 ; EDITOR (NOT USED IN GAME)
@@ -87,8 +163,5 @@
 ;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Locker:/Game/OriginalTiles/Blueprints/00-Common/ClosetStandard
 ;/Game/NewTiles/Blueprints/00-Common/BP_Editor_Totem:/Game/OriginalTiles/Blueprints/00-Common/bp_editor_totembase
 
-
-; MAIN BUILDINGS (NOT USED IN BLUEPRINT INJECTING, JUST FOR CONVENIENCE)
-;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Foundry01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Foundry01
-;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Mine01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Mine01
-;/Game/NewTiles/Blueprints/01-Industrial/BP_ST_Storehouse01:/Game/OriginalTiles/Blueprints/01-Industrial/BP_ST_Storehouse01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_GS_FrontSign01:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_GS_FrontSign01
+;/Game/NewTiles/Blueprints/02-Junkyard/BP_SM_GasStation:/Game/OriginalTiles/Blueprints/02-Junkyard/BP_SM_GasStation
