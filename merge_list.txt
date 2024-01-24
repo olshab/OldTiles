@@ -75,7 +75,7 @@
 ;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD11:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD11
 ;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD12:/Game/OriginalTiles/Tiles/02-Junkyard/BP_TL_Pt_16x16_StraightHD12
 
-;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_16x16_Office01:/Game/OriginalTiles/Tiles/02-Junkyard/7
+;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_16x16_Office01:/Game/OriginalTiles/Tiles/02-Junkyard/
 ;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_16x16_SmallLodge01:/Game/OriginalTiles/Tiles/02-Junkyard/
 ;/Game/NewTiles/Tiles/02-Junkyard/BP_TL_St_2x2_Garage_Jnk:/Game/OriginalTiles/Tiles/02-Junkyard/
 
