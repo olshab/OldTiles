@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "BlueprintMergeTool",
-	"Description": "A plugin to copy components from one blueprint into another one",
+	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Oleg Shabunov",
 	"CreatedByURL": "",

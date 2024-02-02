@@ -6,7 +6,7 @@
 
 void FBlueprintUncookerCommands::RegisterCommands()
 {
-	UI_COMMAND(PluginAction, "BlueprintUncooker", "Execute BlueprintUncooker action", EUserInterfaceActionType::Button, FInputGesture());
+	UI_COMMAND(OpenPluginWindow, "BlueprintUncooker", "Bring up BlueprintUncooker window", EUserInterfaceActionType::Button, FInputGesture());
 }
 
 #undef LOCTEXT_NAMESPACE

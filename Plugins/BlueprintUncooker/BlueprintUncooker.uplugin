@@ -3,9 +3,9 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "BlueprintUncooker",
-	"Description": "A plugin to create editor Blueprint asset from .json dump (check details)",
+	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "Oleg Shabunov",
+	"CreatedBy": "OlegShabunov",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -19,12 +19,6 @@
 			"Name": "BlueprintUncooker",
 			"Type": "Editor",
 			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "UnrealPSKPSA",
-			"Enabled": true
 		}
 	]
 }

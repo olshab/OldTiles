@@ -6,7 +6,7 @@
 
 void FBlueprintMergeToolCommands::RegisterCommands()
 {
-	UI_COMMAND(PluginAction, "BlueprintMergeTool", "Execute BlueprintMergeTool action", EUserInterfaceActionType::Button, FInputGesture());
+	UI_COMMAND(OpenPluginWindow, "BlueprintMergeTool", "Bring up BlueprintMergeTool window", EUserInterfaceActionType::Button, FInputGesture());
 }
 
 #undef LOCTEXT_NAMESPACE

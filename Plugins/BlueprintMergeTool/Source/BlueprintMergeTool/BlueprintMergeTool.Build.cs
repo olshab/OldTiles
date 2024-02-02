@@ -7,8 +7,9 @@ public class BlueprintMergeTool : ModuleRules
 	public BlueprintMergeTool(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
-		
-		PublicIncludePaths.AddRange(
+        OptimizeCode = CodeOptimization.Never;
+
+        PublicIncludePaths.AddRange(
 			new string[] {
 				// ... add public include paths required here ...
 			}
@@ -43,9 +44,12 @@ public class BlueprintMergeTool : ModuleRules
 				"Slate",
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
-				"EditorScriptingUtilities",
-				"DeveloperSettings",
-			}
+				"Json",
+                "DeveloperSettings",
+                "PropertyEditor",
+                "EditorStyle",
+                "EditorScriptingUtilities",
+            }
 			);
 		
 		

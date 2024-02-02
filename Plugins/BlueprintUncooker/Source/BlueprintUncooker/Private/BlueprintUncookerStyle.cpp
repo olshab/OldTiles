@@ -1,9 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "BlueprintUncookerStyle.h"
-#include "BlueprintUncooker.h"
-#include "Framework/Application/SlateApplication.h"
 #include "Styling/SlateStyleRegistry.h"
+#include "Framework/Application/SlateApplication.h"
 #include "Slate/SlateGameResources.h"
 #include "Interfaces/IPluginManager.h"
 
@@ -46,7 +45,7 @@ TSharedRef< FSlateStyleSet > FBlueprintUncookerStyle::Create()
 	TSharedRef< FSlateStyleSet > Style = MakeShareable(new FSlateStyleSet("BlueprintUncookerStyle"));
 	Style->SetContentRoot(IPluginManager::Get().FindPlugin("BlueprintUncooker")->GetBaseDir() / TEXT("Resources"));
 
-	Style->Set("BlueprintUncooker.PluginAction", new IMAGE_BRUSH(TEXT("ButtonIcon_40x"), Icon40x40));
+	Style->Set("BlueprintUncooker.OpenPluginWindow", new IMAGE_BRUSH(TEXT("ButtonIcon_40x"), Icon40x40));
 
 	return Style;
 }

@@ -1,9 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "BlueprintMergeToolStyle.h"
-#include "BlueprintMergeTool.h"
-#include "Framework/Application/SlateApplication.h"
 #include "Styling/SlateStyleRegistry.h"
+#include "Framework/Application/SlateApplication.h"
 #include "Slate/SlateGameResources.h"
 #include "Interfaces/IPluginManager.h"
 
@@ -46,7 +45,7 @@ TSharedRef< FSlateStyleSet > FBlueprintMergeToolStyle::Create()
 	TSharedRef< FSlateStyleSet > Style = MakeShareable(new FSlateStyleSet("BlueprintMergeToolStyle"));
 	Style->SetContentRoot(IPluginManager::Get().FindPlugin("BlueprintMergeTool")->GetBaseDir() / TEXT("Resources"));
 
-	Style->Set("BlueprintMergeTool.PluginAction", new IMAGE_BRUSH(TEXT("ButtonIcon_40x"), Icon40x40));
+	Style->Set("BlueprintMergeTool.OpenPluginWindow", new IMAGE_BRUSH(TEXT("ButtonIcon_40x"), Icon40x40));
 
 	return Style;
 }
