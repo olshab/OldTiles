@@ -5,6 +5,23 @@ There are three stages:
 2. **Merging** them together fixing all collision mismatches
 3. **Injecting** merged tiles into live tiles
 
+# Blueprint Generation specifics
+
+## Child Actors
+One of the components that tiles can contain is **ChildActorComponents**, which is a way to have a blueprint inside of another blueprint (for example, *Shack Structure* blueprint inside of *Shack tile*). So these child actor blueprints must be generated too, before the creation of tile blueprint.
+To choose a blueprint for child component, set it in **ChildActorClass** property.
+
+## Actor Spawners
+Tiles also contain ActorSpawners - special components, that can spawn blueprints *only if certain conditions are met*.
+ActorSpawers have three main properties:
+* **ActivatedSceneElement** - determines which blueprint will be spawned if that ActorSpawner is marked as Activated
+* **DeactivatedSceneElement** - determines which blueprint will be spawned if that ActorSpawner is marked as Deactivated
+* **Visualization** - used only in Editor to visualize that ActorSpawner in viewport (*not used in game*)
+
+Most of the ActorSpawners have only **ActivatedSceneElement**, whereas **DeactivatedSceneElement** is empty. This means if that ActorSpawner is **Deactivated**, nothing will be spawned (for example, *basement* in *Shack tile*). But some ActorSpawners has **DeactivatedSceneElement** as well, like *shack floor* in *Shack tile* - if it's activated (which means basement is spawned in that tile as well), then floor variation with an access to the basement will be spawned, otherwise there's gonna be spawned just plain floor.
+
+So, ActorSpawner is not a static object that always exists in tile, and we shouldn't create it in our tile. But my tool generates tiles with them just for the purpose of visualization. All ActorSpawners in the project are created as child actors (with the blueprint from **Visualization** property) and have "*ActorSpawner*" tag. All ActorSpawners will be stripped out during the process of injection tile blueprints.
+
 # 1. Finding Blueprints Referenced in Tiles
 
 Tile Blueprints can reference another blueprints, for example this Asylum tile references `FenceEdge_Asy_01`.
