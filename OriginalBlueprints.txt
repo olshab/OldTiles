@@ -100,14 +100,27 @@ DeadByDaylight/Content/Blueprints/Floors/BP_FL_Storehouse1
 	;DeadByDaylight/Content/Blueprints/Floors/BP_TL_ST_Basement
 DeadByDaylight/Content/Blueprints/Floors/BP_WarehouseFloor01
 DeadByDaylight/Content/Blueprints/Floors/BP_WarehouseFloor02
+DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_SetupA
+DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_SetupB
+DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_Basement_Door
+DeadByDaylight/Content/Blueprints/Floors/BP_FL_OfficeFLoor01
+DeadByDaylight/Content/Blueprints/Floors/BP_FL_OfficeFLoor02
+	;DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor01
+	;DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor02
+DeadByDaylight/Content/Blueprints/Floors/BP_ST_GasStationFloor1
 	
 	
 ; WINDOW BLOCKERS
 	;DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Ind_CoalTowerA
 	;DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Ind_CoalTowerB
-	;DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Mine1
-	;DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Mine2
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Mine1
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Mine2
 	;DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Storehouse_SetupB
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_JNK_Lodge1
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Garage1
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Garage2
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Junkyard1
+DeadByDaylight/Content/Blueprints/GameplayElements/WorldObjects/WindowBlockers/BP_BoardedWindow_Junkyard2
 	
 	
 ; VAULTS
@@ -137,14 +150,6 @@ DeadByDaylight/Content/Blueprints/Props/Walls/BP_Jnk_MiniMazeWall_01
 DeadByDaylight/Content/Blueprints/Props/Walls/BP_Jnk_MiniMazeWall_02
 DeadByDaylight/Content/Blueprints/Props/Walls/BP_Jnk_MiniMazeWall_03
 DeadByDaylight/Content/Blueprints/Props/Walls/BP_Jnk_MiniMazeWall_04
-DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_TireStack01
-DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_TireStack02
-DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder01
-DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder02
-DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder03
-DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_BigTree01_Jnk
-DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_MediumTree01_Jnk
-DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_TallTree04_Jnk
 
 
 ; MISC
@@ -159,3 +164,11 @@ DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_HideGrass01
 DeadByDaylight/Content/Meshes/Environment/Industrial/Vegetation/BP_IND_BigTree01
 DeadByDaylight/Content/Meshes/Environment/Industrial/Vegetation/BP_IND_MediumTree_NoLeaves
 DeadByDaylight/Content/Meshes/Environment/Industrial/Vegetation/BP_IND_MediumTree01
+DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_TireStack01
+DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_TireStack02
+DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder01
+DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder02
+DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder03
+DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_BigTree01_Jnk
+DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_MediumTree01_Jnk
+DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_TallTree04_Jnk
