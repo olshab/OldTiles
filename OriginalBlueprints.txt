@@ -105,9 +105,10 @@ DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_SetupB
 DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_Basement_Door
 DeadByDaylight/Content/Blueprints/Floors/BP_FL_OfficeFLoor01
 DeadByDaylight/Content/Blueprints/Floors/BP_FL_OfficeFLoor02
-	;DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor01
-	;DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor02
+DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor01
+DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor02
 DeadByDaylight/Content/Blueprints/Floors/BP_ST_GasStationFloor1
+DeadByDaylight/Content/Blueprints/Floors/BP_Fl_Jnk_Shack_Full_Floor01
 	
 	
 ; WINDOW BLOCKERS
