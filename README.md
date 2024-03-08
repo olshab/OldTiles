@@ -78,3 +78,17 @@ After you click `Generate` button, assets will appear:
 - Meshes at `Content/[New/Original]Tiles/Meshes/_buffer`
 - Materials at `Content/[New/Original]Tiles/Materials/_buffer`
 - Textures at ``Content/[New/Original]Tiles/Textures/_buffer``
+
+# 3. Merging Tiles/ActorSpawners in Editor
+
+**BlueprintMergeTool** is accessible from Top Menu -> Window tab:
+
+![BlueprintMergeTool](https://github.com/olshab/OldTiles/blob/main/Guide/BlueprintMergeTool.png?raw=true)
+
+Merging process works as follows: a copy of the blueprint specified as the `Destination` *(from NewTiles)* is created and all components from the blueprint specified as the `Source` *(from OriginalTiles)* are copied to it.
+
+With that:
+- Materials of all StaticMesh components in Destination blueprint are replaced with `Translucent Material` (semi-transparent blue by default) if `Make Meshes Translucent` set to True. Note that it will not affect meshes that are inside of ChildActor components
+- All components from Destination blueprint are set to be `HiddenInGame` (but they are still visible in Editor) and `NewTiles` component tag is add to them. **Warning:** every time you want to use something from Destination blueprint (for example, Rocks meshes), don't forget to set `HiddenInGame` to false and clear `NewTiles` tag. All components with `NewTiles` are stripped out during injecting process
+- All `ActorSpawners` (which are actually just ChildActors) from OriginalTiles are hidden in both Editor and Game, since ActorSpawners from 3.0.0 tiles are not used in live tiles in any ways
+- All `ActorSpawners` from Destination blueprint (from NewTiles) are replaced with blueprints from `Folder To Take ActorSpawners From` if `Replace Actor Spawners` is set to True. ActorSpawners in merged blueprint exist only for visualization purposes, they are not used in game
