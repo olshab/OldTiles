@@ -92,3 +92,5 @@ With that:
 - All components from Destination blueprint are set to be `HiddenInGame` (but they are still visible in Editor) and `NewTiles` component tag is add to them. **Warning:** every time you want to use something from Destination blueprint (for example, Rocks meshes), don't forget to set `HiddenInGame` to false and clear `NewTiles` tag. All components with `NewTiles` are stripped out during injecting process
 - All `ActorSpawners` (which are actually just ChildActors) from OriginalTiles are hidden in both Editor and Game, since ActorSpawners from 3.0.0 tiles are not used in live tiles in any ways
 - All `ActorSpawners` from Destination blueprint (from NewTiles) are replaced with blueprints from `Folder To Take ActorSpawners From` if `Replace Actor Spawners` is set to True. ActorSpawners in merged blueprint exist only for visualization purposes, they are not used in game
+
+Merging should be done to all Tile blueprints and blueprints used as ActorSpawners in live tiles, but you can perform it for any new/old blueprints. For example, it can be useful when you are backporting main buildings, allowing you to easily compare new/old models.
