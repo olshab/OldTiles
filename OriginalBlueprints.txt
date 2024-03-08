@@ -86,6 +86,46 @@ DeadByDaylight/Content/Blueprints/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD12
 DeadByDaylight/Content/Blueprints/Tiles/02-Junkyard/BP_TL_Wl_16x16_MD13
 
 
+; FARM
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_Fence01_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_Fence02_FRM
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_Fence03_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_Fence04_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_FenceCorner1_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_FenceCorner2_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_FenceCorner3_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Bd_16x16_FenceCorner4_Fm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_HD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_HD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_HD23
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_LD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_LD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_16x16_LD23
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornCorner_MD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornCorner_MD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornCurve_MD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornCurve_MD23
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornStraight_MD24
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornStraight_MD25
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_CornStraight_MD26
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Fr_Hill_LD24
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Lm_16x16_CombineHarvester01
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Lm_16x16_SlaughterTree01
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Pt_16x16_CornerHD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Pt_16x16_CornerHD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Pt_16x16_CornerHD23
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Pt_16x16_StraightHD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Pt_16x16_StraightHD22
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_1x2_Escape26
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_2x2_Barn
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_2x2_Silo
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_32x32_Farmhouse01
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_32x32_Slaughterhouse01
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_St_Shack_Frm
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Wl_16x16_HD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Wl_16x16_MD21
+DeadByDaylight/Content/Blueprints/Tiles/03-Farm/BP_TL_Wl_16x16_MD22
+
 
 ;  ACTORSPAWNERS
 
@@ -109,6 +149,7 @@ DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor01
 DeadByDaylight/Content/Blueprints/Floors/BP_Fl_GarageFloor02
 DeadByDaylight/Content/Blueprints/Floors/BP_ST_GasStationFloor1
 DeadByDaylight/Content/Blueprints/Floors/BP_Fl_Jnk_Shack_Full_Floor01
+DeadByDaylight/Content/Blueprints/Floors/BP_Fl_FAR_Shack_Open_Floor01
 	
 	
 ; WINDOW BLOCKERS
@@ -173,3 +214,18 @@ DeadByDaylight/Content/Blueprints/Props/Common/BP_COM_Boulder03
 DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_BigTree01_Jnk
 DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_MediumTree01_Jnk
 DeadByDaylight/Content/Blueprints/Props/02-Junkyard/BP_TallTree04_Jnk
+DeadByDaylight/Content/Blueprints/Environment/03_Farm/Blockers/BP_FAR_Blocker_05
+DeadByDaylight/Content/Blueprints/Environment/03_Farm/Blockers/BP_FAR_Blocker_06
+DeadByDaylight/Content/Blueprints/Environment/03_Farm/Blockers/BP_FAR_Blocker_09
+DeadByDaylight/Content/Blueprints/Props/BP_HayStack01
+DeadByDaylight/Content/Blueprints/Props/BP_HayStack02
+DeadByDaylight/Content/Blueprints/Props/BP_HayStack03
+DeadByDaylight/Content/Blueprints/Props/BP_HayStack04
+DeadByDaylight/Content/Blueprints/Props/BP_MilkBarrelStack01
+DeadByDaylight/Content/Blueprints/Props/BP_SM_COM_Trunk_01
+DeadByDaylight/Content/Blueprints/Props/BP_SM_FAR_CedarElm_01
+DeadByDaylight/Content/Blueprints/Props/BP_SM_FAR_PostOak_01
+DeadByDaylight/Content/Blueprints/Props/Common/BP_FAR_HideGrass01
+DeadByDaylight/Content/Blueprints/Props/Common/BP_FAR_HideGrass02
+DeadByDaylight/Content/Blueprints/Props/Walls/BP_Farm_Wall01
+DeadByDaylight/Content/Meshes/Environment/Common/Nature/Rocks/BP_COM_Boulder_01
