@@ -137,7 +137,7 @@ DeadByDaylight/Content/Blueprints/Floors/BP_Fl_Fr_16x16_Plain01
 DeadByDaylight/Content/Blueprints/Floors/BP_Fl_MineFloor01
 DeadByDaylight/Content/Blueprints/Floors/BP_Fl_MineFloor02
 DeadByDaylight/Content/Blueprints/Floors/BP_FL_Storehouse1
-	;DeadByDaylight/Content/Blueprints/Floors/BP_TL_ST_Basement
+DeadByDaylight/Content/Blueprints/Floors/BP_TL_ST_Basement
 DeadByDaylight/Content/Blueprints/Floors/BP_WarehouseFloor01
 DeadByDaylight/Content/Blueprints/Floors/BP_WarehouseFloor02
 DeadByDaylight/Content/Blueprints/Floors/BP_Jnk_Lodge_SetupA
@@ -228,4 +228,4 @@ DeadByDaylight/Content/Blueprints/Props/BP_SM_FAR_PostOak_01
 DeadByDaylight/Content/Blueprints/Props/Common/BP_FAR_HideGrass01
 DeadByDaylight/Content/Blueprints/Props/Common/BP_FAR_HideGrass02
 DeadByDaylight/Content/Blueprints/Props/Walls/BP_Farm_Wall01
-DeadByDaylight/Content/Meshes/Environment/Common/Nature/Rocks/BP_COM_Boulder_01
+DeadByDaylight/Content/Blueprints/GameplayElements/Interactable/MeatLocker/BP_MeatLocker_Basement
